@@ -8,5 +8,6 @@
   -->
   {{$notes := .Site.RegularPages.ByLastmod.Reverse}}
   {{partial "page-list.html" (first 3 $notes)}}
+  <a href="/notes">See {{sub (len $notes) 2}} more →</a>
 </div>
 
