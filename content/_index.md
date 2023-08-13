@@ -3,7 +3,7 @@ title: Brain Sap
 enableToc: false
 ---
 
-> _Approaching an old wooden door, your ears catch the enigmatic whisper of a steady dribbling.
+> *Approaching an old wooden door, your ears catch the enigmatic whisper of a steady dribbling.*
 
 Don't worry about that sound. It's just thoughts trickling from my brain. Feel free to step in.
 
@@ -25,9 +25,9 @@ While you might discover useful insights here, I offer no guarantees. Some areas
 
 While the layout of this digital garden is intentionally messy, I've labeled notes with tags to better signify their current status.
 
-- #sap - raw thoughts extracted from my brain. Usually very undeveloped and short scribbles, densely linked to other notes
-- #brewing - thoughts and ideas that have gotten a little bit more love
-- #bottled - well-developed thoughts, stored for later
+- [#sap](/tags/sap/) - raw thoughts extracted from my brain. Usually very undeveloped and short scribbles, densely linked to other notes
+- [#brewing](/tags/brewing) - thoughts and ideas that have gotten a little bit more love
+- [#bottled](/tags/bottled/) - well-developed thoughts, stored for later
 
 ## Some places to get started
 
